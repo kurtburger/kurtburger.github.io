@@ -1,0 +1,44 @@
+<link rel="Stylesheet" type="text/css" href="index.html">
+
+header {
+  background: url("https://onepagelove.com/wp-content/uploads/2014/01/opl-big23.jpg");
+  text-align: center;
+}
+
+
+header h1 {
+  color: #f48942;
+}
+
+header img {
+  height: 200px;
+  width: 200px;
+  border: 5px;
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+ul {
+  background-color: #f48942;
+  padding: 20px;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Helvetica', sans-serif;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Helvetica', sans-serif;
+}
+
+div {
+  margin: 100px;
+}
