@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Kurt Burger </title>
+<link rel="stylesheet" type="text/css" href="reset.css">
+<link rel="Stylesheet" type="text/css" href="index.css">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+</head>
+
+<body>
+	<h1> Kurt Burger </h1>
+	<ul> <li> About </li>
+		<li> <a href= "https://twitter.com/kurdbooger" target= blank>Twitter</a> </li>
+		<li> <a href= "https://instagram.com/kurdbooger" target= blank>Instagram</a>  </li>
+<li> Writing </li>
+<li> <a href= "https://kurtburger.github.com/video" target= blank>Video </a>  </li>
+
+</body>
+</html>
