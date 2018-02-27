@@ -2,7 +2,9 @@ h1 {font-size: 100px;
 	font-family: 'Josefin Sans', sans-serif;
 color:#ffbc75; margin-top: 50px; margin-left: 50px;}
 
-li {display: inline;}
+li {display: inline;} a:hover { 
+    background-color: #ffecc1;
+}
 ul { display: inline; margin:10px;font-family: 'Josefin Sans', sans-serif;: 75px; text-align: center;
 	}
 	ul {background-color: #ffbc75; margin-left: 50px; margin-right: 50px; color:white;}
