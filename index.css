@@ -1,19 +1,22 @@
 body 
-h1 {font-size: 100px; 
+h1 {font-size: 80px; 
 	font-family: 'Cabin', sans-serif; 
     text-align:left; 
     color:#ffbc75; 
     margin-top: 50px; 
     margin-left: 0px; }
 
-a {font-family: 'Adamina', serif; 
+a {
+    font-family: 'Adamina', serif; 
    font-size: 20px;
    margin-top:15px;
    margin-bottom:5px;
-    float:left;
     display: inline; 
+
     
     }
+
+img {margin-top: 50px;}
 /* Add a black background color to the top navigation */
     .topnav {
     background-color: white;
